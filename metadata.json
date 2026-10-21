@@ -1,0 +1,6 @@
+{
+  "name": "Studio Polo",
+  "description": "Next-generation professional Digital Audio Workstation with AI mix assistant, Dolby Atmos spatial audio, non-linear clip launcher, and full album mastering.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
